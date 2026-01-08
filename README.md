@@ -1,4 +1,5 @@
-High-Availability Java Cluster (Fault-Tolerant)
+High-Availability Java Cluster (Fault-Tolerant):
+
 A self-healing distributed cluster implemented in Java using the Bully Algorithm and State Machine Replication. This project demonstrates how distributed systems maintain a "Single Source of Truth" and ensure task continuity during node failures.
 
 Overview of the stuff
